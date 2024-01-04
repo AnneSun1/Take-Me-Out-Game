@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script_bai.rpy", line 846: expected end of line
+    stop music fadeout 1,0
+                        ^
+
+Ren'Py Version: Ren'Py 8.1.0.23051307
+Tue Dec 26 19:34:59 2023
